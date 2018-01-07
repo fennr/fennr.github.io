@@ -1,0 +1,51 @@
+html, body { margin: 0; padding: 0; }
+
+.container, .container canvas, .screen {
+    position: absolute;
+    width: 600px;
+    height: 600px;
+}
+
+.container {
+    top: 50%;
+    left: 50%;
+    margin: -300px 0 0 -300px;
+    /*background-color: #EEEEEE;*/
+    background: url(b50x50_bright.png) repeat #EEEEEE;
+    border:1px solid #BBBBBB;
+}
+
+
+.container canvas, .screen {
+    margin: 0;
+}
+
+.container canvas {
+    z-index: 1;
+}
+
+.screen {
+    z-index: 2;
+}
+
+#gameScreen #answer {
+    position: absolute;
+    display: block;
+    width: 480px;
+    left: 60px;
+    bottom: 0px;
+
+    text-align: center;
+    font-size: 40px;
+}
+
+#dgStats {
+    width: 600px;
+    height: 600px;
+    background: #FAFAFA;
+}
+
+#dgStats .dygraph-title {
+    font-size: 20px;
+    text-shadow: 2px 2px 2px gray;
+}
