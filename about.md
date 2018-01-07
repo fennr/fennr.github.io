@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Возможно мне когда-нибудь будет не лень заполнить этот раздел, но только не сегодня!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Вы можете просто посетить [страницу вконтакте](https://vk.com/fenrir1121)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[fenrir1121@gmail.com](mailto:fenrir1121@gmail.com)
