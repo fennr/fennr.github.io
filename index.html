@@ -1,19 +1,18 @@
 ---
-layout: master
-title: "root@admin:~$ fenrir.sh "
+layout: default
 ---
 
-<div class="home">
-  <pre>{
-  "<span class="hl string">name</span>": "<span class="hl string">Merkurev Viktor</span>",
-  "<span class="hl string">email</span>": "<a href="mailto:fenrir1121@gmail.com">fenrir1121@gmail.com</a>",
-  "<span class="hl string">blog</span>": "<a href="/posts/">/posts/</a>",
-  "<span class="hl string">projects</span>": "<a href="/projects/">/projects/</a>",
-  "<span class="hl string">github</span>": "<a href="https://github.com/fenrir1121">@fenrir1121</a>",
-  "<span class="hl string">telegram</span>": "<a href="https://telegram.me/fenrir1121">@fenrir1121</a>",
-  "<span class="hl string">likes</span>": [
-    "<span class="hl string">ABAP</span>",
-    "<span class="hl string">Python</span>",
-  ]
-}</pre>
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
 </div>
