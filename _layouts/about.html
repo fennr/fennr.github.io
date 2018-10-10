@@ -3,10 +3,7 @@
   <head>
     <title>{{ page.title }}</title>
     <meta charset="UTF-8">
-    <style type="text/css">
-        {% capture tiny %}{% include site.scss %}{% endcapture %}
-        {{ tiny | scssify }}
-    </style>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/_sass/_about.css" />
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
     <link rel="icon" type="image/png" href="../images/favicon.png" />
     <link rel="alternate" type="application/atom+xml" title="Fenrir blog posts" href="/feed.xml">
@@ -18,38 +15,7 @@
     {% endif %}
     <meta name="keywords" content="{{ site.keywords | join: ',' }}">
     <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:site_name" content="erkurev Viktor">
-    {% if page.description %}
-    <meta property="og:description" content="{{ page.description}}">
-    {% else %}
-    <meta property="og:description" content="{{ site.description }}">
-    {% endif %}
-    {% if page.image %}
-    <meta property="og:image" content="{{ page.image }}">
-    {% else %}
-    <meta property="og:image" content="https://fenrir1121.github.io/about/assets/images/icons/icon.png">
-    {% endif %}
-    <meta property="og:type" content="article">
-    <meta property="og:url" content="https://fenrir1121.github.io/about/{{ page.url | cgi_escape }}">
-    <meta property="article:author" content="Viktor Lysko">
-    <meta property="fb:admins" content="1439777397">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@vh">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:creator" content="@vh">
-    {% if page.description %}
-    <meta property="twitter:description" content="{{ page.description}}">
-    {% else %}
-    <meta property="twitter:description" content="{{ site.description }}">
-    {% endif %}
-    {% if page.image %}
-    <meta name="twitter:image:src" content="{{ page.image }}">
-    {% else %}
-    <meta name="twitter:image:src" content="https://fenrir1121.github.io/about/assets/images/icons/benburwell.png">
-    {% endif %}
-    <meta name="twitter:domain" content="xxxvik-xakerxxx.github.io">
-    {% if page.chrome-webstore-item %}
-    <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/{{ page.chrome-webstore-item }}">
+    <meta property="og:site_name" content="Merkurev Viktor">
     {% endif %}
   </head>
   <body>
