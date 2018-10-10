@@ -10,12 +10,10 @@ gems:
 timezone: America/New_York
 
 # Site-level data
-name: Viktor Lysko
+name: Merkurev Viktor
 keywords:
-  - viktor lysko
-  - software engineer
   - developer
   - cryptography
-  - C++/ C/Python
-description: "I make things."
+  - Python / ABAP
+description: ""
 excerpt_separator: <!--more-->
