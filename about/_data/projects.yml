@@ -1,0 +1,25 @@
+- name: "This is my dotfiles in bspwm"
+  description: "dotfiles"
+  tech: "Shell"
+  github: "xxxvik-xakerxxx/my-bspwm-speed"
+
+- name: "The C/C++ my works"
+  description: "This is my works"
+  tech: "C , C++ "
+  github: "xxxvik-xakerxxx/cpp-c--ish"
+
+- name: "GyverMODs"
+  description: "Progect Arduino"
+  tech: "C++"
+  github: "xxxvik-xakerxxx/GyverMOD"
+
+- name: "My front-end works"
+  description: "Front-end works"
+  tech: "CSS/HTML/LESS/SASS/JS"
+  github: "xxxvik-xakerxxx/front-end"
+
+- name: "AwesomeWM dotfiles"
+  description: "This is my AwesomeWM dotfiles"
+  tech: "Lua"
+  github: "xxxvik-xakerxxx/awesomeWMtheme-adapt"
+
