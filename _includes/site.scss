@@ -8,7 +8,7 @@ $emphasis-color: #99d1ce;
 
 $base-font-size: 20px;
 $monospace: monospace;
-$container-width: 1200px;
+$container-width: 100%;
 
 @mixin container {
 	max-width: $container-width;
