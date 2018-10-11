@@ -4,7 +4,7 @@
     <title>{{ page.title }}</title>
     <meta charset="UTF-8">
     <style type="text/css">
-        {% capture tiny %}{% include about.scss %}{% endcapture %}
+        {% capture tiny %}{% include site.scss %}{% endcapture %}
         {{ tiny | scssify }}
     </style>
     <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
@@ -61,7 +61,5 @@
   </head>
   <body>
     {{ content }}
-    <script src="/assets/scripts/keen.min.js"></script>
-    <script src="/assets/scripts/metrics.js"></script>
   </body>
 </html>
