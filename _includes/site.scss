@@ -6,9 +6,9 @@ $heading-color: #d26937;
 $link-color: #c23127;
 $emphasis-color: #99d1ce;
 
-$base-font-size: 20px;
+$base-font-size: 18px;
 $monospace: monospace;
-$container-width: 100%;
+$container-width: 1200px;
 
 @mixin container {
 	max-width: $container-width;
