@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>~:$ {{ page.title }}</title>
+    <meta charset="UTF-8">
+    <style type="text/css">
+        {% capture tiny %}{% include site.scss %}{% endcapture %}
+        {{ tiny | scssify }}
+    </style>
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <link rel="icon" type="image/png" href="../images/favicon.png" />
+    <link rel="alternate" type="application/atom+xml" title="Fenrir blog posts" href="/feed.xml">
+    <meta name="author" content="Merkurev Viktor">
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+    {% endif %}
+  </head>
+  <body>
+    {{ content }}
+    <script src="/assets/scripts/keen.min.js"></script>
+    <script src="/assets/scripts/metrics.js"></script>
+  </body>
+</html>
