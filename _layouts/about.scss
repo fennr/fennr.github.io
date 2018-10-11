@@ -1,4 +1,4 @@
-$background-color: #FDFCFC;
+$background-color: #2D3337;
 $base-text-color: #DA2121;
 $muted-text-color: #5C5555;
 $light-gray: #ddd;
@@ -24,8 +24,6 @@ $container-width: 1200px;
 body {
 	font-family: $monospace;
 	color: $base-text-color;
-	width: 100%;
- 	height: 100%;
 	font-size: $base-font-size;
 	padding: 5rem 0 0 0;
 	margin: 0;
