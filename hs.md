@@ -8,12 +8,12 @@ permalink: /hs/
 ## Стандарт 
 ### Warrior
 #### Snip-Snap Bomb Warrior 
-    - 28.06.2019 
-    - AAECAQcEkvgCoIADm5QDn7cDDUuiBP8HnfACm/MC0fUCg/sCnvsCs/wC9YADl5QDmpQDkp8DAA==
+- 28.06.2019 
+- AAECAQcEkvgCoIADm5QDn7cDDUuiBP8HnfACm/MC0fUCg/sCnvsCs/wC9YADl5QDmpQDkp8DAA==
 
 #### Azalina Bomb Warrior
-    - 28.06.2019 
-    - AAECAQcKS5EG+wya7gKd8AKS+AKO+wKggAOblAOftwMKogT/B5vzAtH1AoP7ArP8AvWAA5eUA5qUA5KfAwA=
+- 28.06.2019 
+- AAECAQcKS5EG+wya7gKd8AKS+AKO+wKggAOblAOftwMKogT/B5vzAtH1AoP7ArP8AvWAA5eUA5qUA5KfAwA=
 
 ### Rogue
 #### Party Rogue
