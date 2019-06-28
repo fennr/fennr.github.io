@@ -1,7 +1,10 @@
+
 ---
 layout: default
 title: Колоды HS
+permalink: /hs/
 ---
+
 
 # Колоды возмездия теней
 ## Стандарт 
