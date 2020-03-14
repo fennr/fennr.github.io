@@ -16,12 +16,12 @@
 /*Circle*/
 .timeline>li::after{
     content: ' ';
-  background: blue;
+  background: $blue;
   display: inline-block;
   position: absolute;
   border-radius: 50%;
   left: -23px;
-  top: 11px;
+  top: 10px;
   width: 9px;
   height: 9px;
   z-index: 400;
