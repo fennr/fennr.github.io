@@ -1,0 +1,60 @@
+main.container {
+			margin-top: 1.5rem;
+			padding: 0 1rem;
+		}
+
+		#title {
+			font-size: 150%;
+		}
+
+		hr {
+			margin: 1.25rem 0;
+			border: none;
+			border-bottom: solid 1px #a3a3a3;
+			height: 1px;
+		}
+		.text-secondary {
+			opacity: 0.8;
+		}
+		ul {
+			padding: 0 0;
+		}
+		ul > li {
+			list-style: none;
+			white-space: nowrap;
+			margin: 0 0.5rem 0rem 0.4rem;
+			opacity: 0.85;
+			transition: opacity 0.25s;
+		}
+		ul.contacts > li {
+			display: inline-block;
+		}
+		ul.workplaces > li {
+			margin: 0 1rem 1rem 0.4rem;
+		}
+		ul > li:hover {
+			opacity: 1;
+		}
+		ul > li > a {
+			color: inherit !important;
+			white-space: nowrap;
+		}
+		ul > li > a:hover {
+			text-decoration: none;
+		}
+		ul > li > a:hover .text {
+			text-decoration: underline;
+		}
+		ul > li > .elevate {
+			margin-left: 1.75rem;
+		}
+
+		.nowrap {
+			white-space: nowrap;
+		}
+		.yandex {
+			display: inline-block;
+		}
+		.yandex::first-letter {
+			color: #f00;
+		}
