@@ -29,6 +29,7 @@ main.container {
 		ul.contacts > li {
 			display: inline-block;
 		}
+		/* вернуть когда понадобятся 2 колонки
 		ul.workplaces {
 			-webkit-columns: 2 200px;
 			-moz-columns: 2 200px;
@@ -37,6 +38,7 @@ main.container {
 			-moz-column-gap: 4em;
 			column-gap: 4em;
 		}
+		*/
 		ul.workplaces > li {
 			margin: 0 1rem 1rem 0.4rem;
 		}
