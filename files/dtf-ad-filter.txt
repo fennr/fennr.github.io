@@ -7,7 +7,7 @@ dtf.ru##.azur-games-button
 !нижняя панель
 dtf.ru##.sidebar__footer__container
 !синие вставки: комментарии дня, посты которые вы могли пропустить
-dtf.ru##.widget_wrapper, .widget_wrapper--type-blue, .l-pt-20
+dtf.ru##.widget_wrapper--type-blue.widget_wrapper
 !лишние кнопки в меню
 dtf.ru##.live-stream-button
 !Вакансии
