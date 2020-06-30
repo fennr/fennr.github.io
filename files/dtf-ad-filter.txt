@@ -1,0 +1,14 @@
+! живая лента. Вернуть при необходимости
+dtf.ru##.live, .l-h-full
+dtf.ru##.live_head__button, .live_head__button--big
+!Промо azure
+dtf.ru##.azure-teaser
+dtf.ru##.azur-games-button
+!нижняя панель
+dtf.ru##.sidebar__footer__container
+!синие вставки: комментарии дня, посты которые вы могли пропустить
+dtf.ru##.widget_wrapper, .widget_wrapper--type-blue, .l-pt-20
+!лишние кнопки в меню
+dtf.ru##.live-stream-button
+!Вакансии
+dtf.ru##div.main.layout:nth-child(11) > div.layout__column.layout__column--left.layout__column--sticky:nth-child(2) > div.sidebar.vb.vb-invisible:first-child > div.vb-content:first-child > div.sidebar__tree-list:nth-child(2) > a.sidebar__tree-list__item.l-ph-20.lm-ph-15:nth-child(4)
