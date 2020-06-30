@@ -27,6 +27,7 @@ dtf.ru##div.main.layout:nth-child(11) > div.layout__column.layout__column--left.
 !Рейтинг постов, комментариев и участников
 dtf.ru##.vote__value__v, .vote__value__v--real, .vote__value
 dtf.ru##.subsite_head__karma
+dtf.ru##.authorCard__karma
 
 !Количество комментариев и репостов
 dtf.ru##.comments_counter
