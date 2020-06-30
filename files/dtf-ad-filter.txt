@@ -1,6 +1,6 @@
 ! Title: Zen DTF
 ! Version: 1.00
-! Homepage: https://fennr.github.io/blog/zen-dtf
+! Homepage: https://fennr.github.io/zen-dtf/
 
 !Живая лента
 dtf.ru##.live, .l-h-full
@@ -30,8 +30,8 @@ dtf.ru##.subsite_head__karma
 dtf.ru##.authorCard__karma
 
 !Количество комментариев и репостов
-dtf.ru##.comments_counter
-dtf.ru##.favorite_marker
+!dtf.ru##.comments_counter
+!dtf.ru##.favorite_marker
 
 !Имена и аватарки
 !dtf.ru##.user_name
