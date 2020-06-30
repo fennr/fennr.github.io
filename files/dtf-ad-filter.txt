@@ -34,8 +34,8 @@ dtf.ru##.comments_counter
 dtf.ru##.favorite_marker
 
 !Имена и аватарки
-dtf.ru##.user_name
-dtf.ru##.andropov_image, .comments__item__user__image, .andropov_image--bordered
-dtf.ru##.comments__item__ico
-dtf.ru##.comments__item__replied_to
-dtf.ru##.comments__item__user__status
+!dtf.ru##.user_name
+!dtf.ru##.andropov_image, .comments__item__user__image, .andropov_image--bordered
+!dtf.ru##.comments__item__ico
+!dtf.ru##.comments__item__replied_to
+!dtf.ru##.comments__item__user__status
