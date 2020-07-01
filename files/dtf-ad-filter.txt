@@ -1,5 +1,5 @@
 ! Title: Zen DTF
-! Version: 1.00
+! Version: 1.01
 ! Homepage: https://fennr.github.io/zen-dtf/
 
 !Живая лента
