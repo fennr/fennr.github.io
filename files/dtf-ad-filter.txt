@@ -1,5 +1,5 @@
 ! Title: Zen DTF
-! Version: 1.01
+! Version: 1.02
 ! Homepage: https://fennr.github.io/zen-dtf/
 
 !Живая лента
@@ -43,3 +43,6 @@ dtf.ru##.authorCard__karma
 !Баннер TLOU2 и баннер Playstation
 dtf.ru##.thelastofus-footer
 dtf.ru##.thelastofus-article
+
+!Баннеры Intel
+dtf.ru##.intel
