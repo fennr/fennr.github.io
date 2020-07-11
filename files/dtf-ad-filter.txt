@@ -40,6 +40,9 @@ dtf.ru##.authorCard__karma
 !dtf.ru##.comments__item__replied_to
 !dtf.ru##.comments__item__user__status
 
+!DTF plus
+dtf.ru##.plus-badge
+
 !Баннер TLOU2 и баннер Playstation
 dtf.ru##.thelastofus-footer
 dtf.ru##.thelastofus-article
