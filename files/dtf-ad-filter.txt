@@ -1,5 +1,5 @@
 ! Title: Zen DTF
-! Version: 1.03
+! Version: 1.05
 ! Homepage: https://fennr.github.io/zen-dtf/
 
 !Живая лента
@@ -8,6 +8,7 @@ dtf.ru##.live_head__button, .live_head__button--big
 
 !Промо azure
 dtf.ru##.azure-teaser
+dtf.ru##.azur-teaser
 dtf.ru##.azur-games-button
 
 !Нижняя панель
@@ -15,6 +16,7 @@ dtf.ru##.sidebar__footer__container
 
 !Синие вставки: комментарии дня, посты которые вы могли пропустить
 dtf.ru##.widget_wrapper--type-blue.widget_wrapper
+dtf.ru##.island, .island--expanded, .island--blogs_entries
 
 !Лишние кнопки в меню
 !!Стримы
