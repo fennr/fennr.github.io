@@ -1,5 +1,5 @@
 ! Title: Zen DTF
-! Version: 1.06
+! Version: 1.07
 ! Homepage: https://fennr.github.io/zen-dtf/
 
 !Живая лента
@@ -56,4 +56,4 @@ dtf.ru##.intel
 dtf.ru##.content-feed--hack
 
 !Картинки в комментариях
-dtf.ru##.andropov_image__inner
+dtf.ru##.comments__item__media, andropov_image andropov_image--zoomable
