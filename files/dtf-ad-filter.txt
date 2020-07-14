@@ -1,5 +1,5 @@
 ! Title: Zen DTF
-! Version: 1.09
+! Version: 1.10
 ! Homepage: https://fennr.github.io/zen-dtf/
 
 !Живая лента
@@ -54,6 +54,7 @@ dtf.ru##.intel
 
 !Хакатон
 dtf.ru##.content-feed--hack
+dtf.ru##.azur-games-hack-countdown, .is-loaded, .is-gifs-loaded
 
 !Картинки в комментариях
 !dtf.ru##.comments__item__media, andropov_image
