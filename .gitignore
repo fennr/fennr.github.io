@@ -7,3 +7,4 @@ _site
 node_modules
 package.json
 _posts/2019-03-30-fishpost.md
+.idea
