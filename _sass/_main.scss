@@ -30,17 +30,24 @@ main.container {
 			display: inline-block;
 		}
 		/* вернуть когда понадобятся 2 колонки
-    */
 		ul.workplaces {
 			-webkit-columns: 3 200px;
 			-moz-columns: 3 200px;
-			columns: 3 200px;
+			column-count: 3;
 			-webkit-column-gap: 4em;
 			-moz-column-gap: 4em;
 			column-gap: 4em;
 		}
 		ul.workplaces > li {
 			margin: 0 1rem 1rem 0.4rem;
+		}
+		 */
+		ul.workplaces {
+  			flex-wrap: wrap;
+ 			display: flex;
+		}
+		ul.workplaces li {
+  			flex: 1 0 33%;
 		}
 		ul > li:hover {
 			opacity: 1;
