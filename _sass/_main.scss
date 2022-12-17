@@ -43,7 +43,7 @@ main.container {
 		}
 		 */
 		ul.workplaces {
-  			flex-wrap: wrap;
+  			flex-wrap: nowrap;
  			display: flex;
 		}
 		ul.workplaces li {
